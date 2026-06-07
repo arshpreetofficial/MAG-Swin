@@ -44,4 +44,13 @@ MAG-Swin/
 ├── requirements.txt
 ├── DATASET_README.md
 
+**## Citation**
+
+If you use MAG-Swin, the source code, benchmark protocol, or pretrained models in your research, please cite:
+
+Arshpreet Kaur and Jagdeep Kaur.
+
+A Multi-domain Attention-Guided Framework for Alzheimer's Disease Classification.
+
+Submitted to The Visual Computer (under review).
 
