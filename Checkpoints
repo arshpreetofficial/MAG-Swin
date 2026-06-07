@@ -1,0 +1,18 @@
+# Checkpoints
+
+This directory stores trained MAG-Swin models.
+
+Example:
+
+magswin_best.pth
+
+magswin_final.pth
+
+## Loading
+
+```python
+model.load_state_dict(
+    torch.load(
+        "checkpoints/magswin_best.pth"
+    )
+)
