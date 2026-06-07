@@ -1,0 +1,22 @@
+Dataset Access Instructions
+
+Training Dataset:
+ADNI
+https://adni.loni.usc.edu
+
+External Validation Dataset:
+OASIS
+https://www.oasis-brains.org
+
+Preprocessing Pipeline
+
+1. MRI Acquisition
+2. Skull Stripping
+3. Intensity Normalization
+4. CLAHE Enhancement
+5. Slice Extraction
+6. Resizing to 224x224
+
+Data redistribution is restricted by ADNI and OASIS licenses.
+
+Researchers must obtain datasets directly from official repositories.
