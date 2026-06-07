@@ -43,7 +43,5 @@ MAG-Swin/
 ├── config.yaml
 ├── requirements.txt
 ├── DATASET_README.md
-├── BENCHMARK_PROTOCOL.md
-├── REPRODUCIBILITY.md
-├── CODE_AVAILABILITY.md
-├── CITATION.cff
+
+
