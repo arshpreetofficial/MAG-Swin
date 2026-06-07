@@ -44,7 +44,7 @@ MAG-Swin/
 ├── requirements.txt
 ├── DATASET_README.md
 
-**## Citation**
+Citation:
 
 If you use MAG-Swin, the source code, benchmark protocol, or pretrained models in your research, please cite:
 
