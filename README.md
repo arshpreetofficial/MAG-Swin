@@ -1,10 +1,10 @@
-# MAG-Swin
+# MSSA-Swin
 
 Multi-domain Spectral–Spatial–Anatomical Representation Learning for Robust Alzheimer’s Disease Classification.
 
 ## Overview
 
-MAG-Swin is a deep learning framework for Alzheimer’s disease classification using neuroimaging data. It integrates:
+MSSA-Swin is a deep learning framework for Alzheimer’s disease classification using neuroimaging data. It integrates:
 
 1. Spectral encoding using DFT
 2. Spatial modeling using Swin Transformer
@@ -26,8 +26,8 @@ Datasets must be downloaded by users from official sources.
 
 ## Repository Structure
 
-```text
-MAG-Swin/
+
+MSSA-Swin/
 ├── train.py
 ├── evaluate.py
 ├── predict.py
@@ -52,5 +52,5 @@ Arshpreet Kaur and Jagdeep Kaur.
 
 A Multi-domain Attention-Guided Framework for Alzheimer's Disease Classification.
 
-Submitted to The Visual Computer (under review).
+
 
