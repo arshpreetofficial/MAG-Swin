@@ -46,7 +46,7 @@ MSSA-Swin/
 
 Citation:
 
-If you use MAG-Swin, the source code, benchmark protocol, or pretrained models in your research, please cite:
+If you use MSSA-Swin, the source code, benchmark protocol, or pretrained models in your research, please cite:
 
 Arshpreet Kaur and Jagdeep Kaur.
 
